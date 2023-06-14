@@ -1,0 +1,17 @@
+com/demoboot/exceptionhandler/InvalidSysIPException.class
+com/demoboot/exceptionhandler/ErrorDetails.class
+com/demoboot/entities/Book.class
+com/demoboot/services/BookServiceImpl.class
+com/demoboot/interceptors/BookServiceInterceptorAppConfig.class
+com/demoboot/SpringBootDemoApplication.class
+com/demoboot/controllers/RestTemplateController.class
+com/demoboot/services/RestTemplateService.class
+com/demoboot/daos/BookDao.class
+com/demoboot/controllers/MainController.class
+com/demoboot/Consumer.class
+com/demoboot/services/BookService.class
+com/demoboot/exceptionhandler/BookNotFoundException.class
+com/demoboot/exceptionhandler/GlobalExceptionHandler.class
+com/demoboot/models/BookModel.class
+com/demoboot/entities/Student.class
+com/demoboot/interceptors/BookServiceInterceptor.class
