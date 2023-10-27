@@ -1,0 +1,24 @@
+package com.mockitoClasses;
+
+import static org.junit.Assert.*;  
+import java.util.List;  
+import org.junit.Test;
+
+import com.mockitoClasses.services.ToDoBusiness;
+import com.mockitoClasses.services.ToDoService;  
+  
+public class ToDoBusinessStub {  
+  
+    @Test  
+    public void test() {  
+          
+        ToDoService doServiceStub = new ToDoServiceStub();   
+              
+        ToDoBusiness business = new ToDoBusiness(doServiceStub);  
+      
+        List<String> retrievedtodos = business.getTodosforSpring(" Dummy ");  
+          
+        assertEquals(2, retrievedtodos.size());  
+       System.out.println(" Stub is working correctly...!!");  
+       }  
+ }  

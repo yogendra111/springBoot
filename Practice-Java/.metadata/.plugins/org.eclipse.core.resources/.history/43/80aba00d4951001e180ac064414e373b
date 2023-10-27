@@ -1,0 +1,4 @@
+server.port=9898
+spring.application.name=PAYMENT-APP
+
+management.endpoints.web.exposure.include=*

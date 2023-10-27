@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.hystrixproj.Hystrix&apos; to &apos;com.hystrixproj&apos;&#x0D;&#x0A;- Original project: &apos;Hystrix&apos;&#x0D;&#x0A;- Original element: &apos;Hystrix/src/main/java/com.hystrixproj.Hystrix&apos;&#x0D;&#x0A;- Renamed element: &apos;Hystrix/src/main/java/com.hystrixproj&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.hystrixproj.Hystrix&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.hystrixproj.Hystrix" name="com.hystrixproj" qualified="false" references="true" stamp="1694504794129" textual="false" version="1.0"/>
+</session>
